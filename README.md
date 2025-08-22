@@ -3,7 +3,7 @@
 This project presents an interactive HR analytics dashboard built in Tableau, leveraging a synthetic dataset of 8,950 employees generated using Python (Pandas, NumPy, Faker). The dashboard provides data-driven insights into workforce distribution, attrition, demographics, education, salary trends, and performance metrics, enabling strategic decision-making for HR and leadership teams.
 
 ## 📊 Dashboard Preview
-![HR Analytics Dashboard Preview](dashboard_preview.png)
+![HR Analytics Dashboard Preview](dashboard_preview.jpeg)
 
 ---
 
